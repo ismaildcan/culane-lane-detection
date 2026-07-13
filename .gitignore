@@ -1,0 +1,19 @@
+# data & model artifacts — never committed (CULane license / size)
+dataset/
+*.pt
+*.pth
+*.tar.gz
+*.zip
+
+# run outputs
+results/
+final_results/
+eda/
+report.html
+
+# notebook & OS clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Icon?
